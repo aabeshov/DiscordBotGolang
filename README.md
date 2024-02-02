@@ -23,8 +23,8 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the Repository:**
     ```
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/aabeshov/DiscordBotGolang.git
+    cd DiscordBotGolang
     ```
 
 2. **Environment Configuration:**
